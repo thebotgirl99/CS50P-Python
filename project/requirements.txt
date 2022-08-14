@@ -1,0 +1,5 @@
+#The following are the pip installed libraries required to run project.py:
+pip install Pillow
+pip install moviepy
+pip install gTTS
+pip install regex
